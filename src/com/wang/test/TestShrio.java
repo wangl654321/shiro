@@ -8,6 +8,7 @@ public class TestShrio {
 	public void test() {
 		System.out.println("大家好");
 		System.out.println("你们好");
+		System.out.println("你好");
 	}
 
 }
